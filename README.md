@@ -1,0 +1,3 @@
+- 👋 Hi, This is mapa. This user was created to attend 7DS.info webpage bugs or concerns
+- If you want to contribute to our community, request a push on the right repository
+- Glad to have you here!
